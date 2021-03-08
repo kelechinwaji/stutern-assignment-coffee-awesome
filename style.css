@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: url(laptop-coffee-black.jpg) no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Oi', cursive;
+}
+
+.rowHeight{
+    height: 500px;
+}
+
+h1{
+    color: #000;
+    font-size: 50px;
+
+}
+
+.bg{
+    background-color: #c1c1c1;
+    opacity: 0.8;
+}
+
+.footer{
+    background-color: #fff;
+    bottom: 0;
+    position: fixed;
+}
+
+p{
+    font-size: 18px;
+    padding: 10px;
+}
